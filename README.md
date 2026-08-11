@@ -156,13 +156,11 @@ Default Risk Prediction
 Loan-Default-Risk-Predictor/
 │
 ├── app.py
-├── credit_risk_dataset.csv
+├── requirements.txt
 ├── Loan_Default_XGBoost.pkl
 ├── OneHotEncoder.pkl
 ├── MinMaxScaler.pkl
-├── Feature_Names.pkl
-├── requirements.txt
-├── Loan Default Risk Predictor_3MTT Capstone Project.ipynb
+└── Feature_Names.pkl
 └── README.md
 ```
 
